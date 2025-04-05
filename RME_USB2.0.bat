@@ -22,6 +22,7 @@ cls
 echo.
 echo :::::::::::::::::::::::::::::::::::::::::::::::::::::
 echo     RESTAURADOR DE MEMORIAS EXTRAIBLES USB v2.0  
+echo     By JCalvo
 echo :::::::::::::::::::::::::::::::::::::::::::::::::::::
 echo.
 echo 1- Restaurar memoria extraible USB (Modo Rapido)
@@ -112,7 +113,7 @@ cls
 echo.
 echo :::::: LIMPIEZA USB FINALIZADA CON EXITO ::::::
 echo.
-ping localhost -n 3 >nul
+pause
 del /s /f discosduros85.txt
 del /s /f restaurardisco85.txt 
 goto salir
@@ -198,7 +199,7 @@ cls
 echo.
 echo :::::: RESTAURACION FINALIZADA CON EXITO ::::::
 echo.
-ping localhost -n 3 >nul
+pause
 del /s /f discosduros85.txt
 del /s /f restaurardisco85.txt 
 goto salir
@@ -285,7 +286,7 @@ cls
 echo.
 echo :::::: RESTAURACION FINALIZADA CON EXITO ::::::
 echo.
-ping localhost -n 3 >nul
+pause
 del /s /f discosduros85.txt
 del /s /f restaurardisco85.txt 
 goto salir
