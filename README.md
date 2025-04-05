@@ -1,5 +1,7 @@
 # RME-USB
-Restaurador de Memorias Extraibles USB, las formatea a bajo nivel, recuperando la velocidad inicial de escritura y lectura.
+Restaurador de Memoria Extraible USB 
+
+Las formatea a bajo nivel, recuperando la velocidad inicial de escritura y lectura.
 
 No me hago responsable de su uso o si causa algun daño.
 
