@@ -15,13 +15,15 @@ Uso:
 
 2- Insertar USB
 
-![image](https://github.com/user-attachments/assets/ae5a988c-3e76-49bb-9944-2e945cdf5730)
+![image](https://github.com/user-attachments/assets/ee0c92ed-e249-4f77-ab94-58ad720e65d4)
+
 
 
 
 3- Elijimos entre la opcion 1 o 2, ¿velocidad o eficacia? :)
 
-![image](https://github.com/user-attachments/assets/49683c84-ebfe-4aa2-8a25-5a435160097b)
+![image](https://github.com/user-attachments/assets/7e00b0aa-b52a-45cc-8fc0-e0ec205e9254)
+
 
 
 
@@ -57,10 +59,14 @@ Uso:
 
 9- Comienza el proceso
 
-![image](https://github.com/user-attachments/assets/10857b1d-a8dc-4dce-837e-4340613af839)
+![image](https://github.com/user-attachments/assets/0240374c-4242-43cb-badb-96d43f95562b)
 
 
 
 10- Finalizado el proceso exitosamente. 
+
+![image](https://github.com/user-attachments/assets/44606ec3-24d8-4d28-bdb5-e6534a6ff1bb)
+
+
 
 ![image](https://github.com/user-attachments/assets/e865e857-a9e9-4256-b038-061461644c8e)
