@@ -59,7 +59,7 @@ Uso:
 
 9- Comienza el proceso
 
-![image](https://github.com/user-attachments/assets/0240374c-4242-43cb-badb-96d43f95562b)
+![image](https://github.com/user-attachments/assets/68839987-9433-42a9-b58b-a96722d35c49)
 
 
 
