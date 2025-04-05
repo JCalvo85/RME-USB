@@ -145,7 +145,7 @@ echo.
 set /p "nomusb=>"
 echo.
 echo IMPORTANTE: La letra C es la que suele estar asignada al disco local.
-echo y la letra D suele estar asignada al CD-ROM/DVD.
+echo Elige una letra que no use su sistema.
 echo.
 echo Letra que quiere asignarle a la unidad de memoria?
 echo.
@@ -231,7 +231,7 @@ echo.
 set /p "nomusb=>"
 echo.
 echo IMPORTANTE: La letra C es la que suele estar asignada al disco local.
-echo y la letra D suele estar asignada al CD-ROM/DVD.
+echo Elige una letra que no use su sistema.
 echo.
 echo Letra que quiere asignarle a la unidad de memoria?
 echo.
