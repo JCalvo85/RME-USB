@@ -39,7 +39,7 @@ Uso:
 
 6- Introduce un nombre para tu unidad USB.
 
-![image](https://github.com/user-attachments/assets/47a61bfa-dc29-4662-9288-6377000a5391)
+![image](https://github.com/user-attachments/assets/bf13bade-34a8-4e17-96d9-91fab1647833)
 
 
 
@@ -63,4 +63,4 @@ Uso:
 
 10- Finalizado el proceso exitosamente. 
 
-![image](https://github.com/user-attachments/assets/fc4014a9-6398-4411-b49b-feee28da4efd)
+![image](https://github.com/user-attachments/assets/e865e857-a9e9-4256-b038-061461644c8e)
