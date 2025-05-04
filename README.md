@@ -1,7 +1,7 @@
 # RME-USB
 Restaurador de Memoria Extraible USB 
 
-Las formatea a bajo nivel, recuperando la velocidad inicial de escritura y lectura.
+Formatea a bajo nivel, recuperando la velocidad inicial de escritura y lectura.
 
 No me hago responsable de su uso o si causa algun daño.
 
@@ -22,14 +22,14 @@ Uso:
 
 
 
-3- Elijimos entre la opcion 1 o 2, ¿velocidad o eficacia? :)
+3- Opcion 1 o 2, ¿velocidad o eficacia? :)
 
 ![image](https://github.com/user-attachments/assets/7e00b0aa-b52a-45cc-8fc0-e0ec205e9254)
 
 
 
 
-4- Introducir el numero del disco, en mi caso es el 2, para guiaros fijaros en el Tamaño, se ve claro que el mio es el de 14GB :D
+4- Introducir el numero del disco, en mi caso es el 2, para guiaros, fijaros en el Tamaño, se ve claro que el mio es el de 14GB :D
 
 ![image](https://github.com/user-attachments/assets/916beb62-4bc0-48a2-bd13-efd43ad4f429)
 
@@ -47,7 +47,7 @@ Uso:
 
 
 
-7- Elejir una letra para la unidad de memoria, pensar en una que no este pillada por el sistema.
+7- Elejir una letra para la unidad de memoria, pensar en una que no tenga ninguna unidad asignada por el sistema.
 
 ![image](https://github.com/user-attachments/assets/12988afe-08d1-48fc-9de5-4abb8f6eab93)
 
